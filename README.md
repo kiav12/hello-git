@@ -5,3 +5,4 @@ Sublime Merge와 Gitlab을 이용하여 Git을 배워볼까요?
 -Sublime Merge 알아보기
 -Gitlab에 원격저장소 생성하기
 -오픈소스에 기여해보기
+문의는 0200000000로 부탁드립니다.
